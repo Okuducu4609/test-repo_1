@@ -9,6 +9,9 @@ From gitHub
 
 intellij ile commit yapiyorum
 
+
 remote master dan guncelledim
+
+
 
 
