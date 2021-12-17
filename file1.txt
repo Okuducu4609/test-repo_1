@@ -4,5 +4,9 @@ Doing more work
 
 wrapping up file 1
 
-From gitHub 
+From gitHub
+
+
+intellij ile commit yapiyorum
+
 
